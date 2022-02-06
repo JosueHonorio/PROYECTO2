@@ -1,6 +1,12 @@
 *{
     margin: 0;
     padding: 0;
+    
+}
+
+*{
+    font-family: 'Passion One', cursive;
+    font-family: 'Sen', sans-serif;
 }
 
 h1{
@@ -8,7 +14,7 @@ h1{
 }
 
 .header{
-    background-color: aqua;
+    background-color: rgb(133, 202, 64);
     position: sticky;
     top: 0;
 }
@@ -27,6 +33,7 @@ h1{
 
 .header img{
     width: 100px;
+    border-radius: 80px;
 }
 
 .navegador{
@@ -43,6 +50,63 @@ h1{
     
 }
 
+h2{
+    font-size: 50px;
+    margin-left: 350px;
+    color: rgb(31, 211, 121);
+}
+
+.contenedor__article img{ 
+    width: 600px;
+    border-radius: 80px;
+    border: 6px solid black;
+    margin: 10px;
+}
+
+
+
+.contenedor .contenedor__article{
+    display: inline-block;
+}
+.contenedor__titulo{
+    font-size: 35px;
+    color:  black;
+    width: 600px;
+    margin-left: 240px;
+}
+
+
+.contenedor__texto{
+    font-size: 18px;
+    color: rgb(214, 253, 169);
+    width: 600px;
+    margin-left: 30px;
+}
+
+
+main{
+    background-image: url(../multimedia/imagenes/fondo.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+.footer{
+    padding: 50px;
+    margin-bottom: 0px;
+    background-color: black;
+}
+
+.footer img{
+    width: 100px;
+    border-radius: 80px;
+}
 
 
 
@@ -97,10 +161,7 @@ h1{
     position: relative;
     left: 500px;
     font-size: 50px;
-}
-
-
-main{
-    background-image: url(../multimedia/imagenes/fondo.jpg);
 }*/
+
+
 
