@@ -58,6 +58,7 @@ h2{
 
 .main{
     background-image: url(../multimedia/imagenes/fondo.jpg);
+    padding: 50px 0;
 }
 
 .contenedor__article img{ 
@@ -80,7 +81,7 @@ h2{
 
 .contenedor__texto{
     font-size: 18px;
-    color: rgb(13, 14, 13);
+    color: #0d0e0d;
     width: 600px;
     margin-left: 30px;
     background-color: #ddd;
@@ -99,8 +100,9 @@ h2{
     border-radius: 80px;
 }
 
-
-
+.texto-copyright{
+    color: white;
+}
 
 
 
